@@ -7,6 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Cara Menginstall & Menjalankan Proyeknya:
+1.  Buka aplikasi XAMPP kemudian jalankan apache & mysql
+2.  pada direktori explorer dari local disk(C;)/XAMPP/htdocs buat folder baru bernama "aqas" dan isi dengan file dari github ini
+3.  Masuk ke database dari my sql dengan membuka browser dengan memasukkan url localhost/phpmyadmin
+4.  buat database baru bernama fasilitas_kampus dan import tabel dari database yang bernama fasilitas_kampus aseli
+5.  setelah database dan tabelnya terimport (totalnya ada 24tabel) buka software coding yang digunakan (contohnya vscode atau terminal)
+6.  masuk ke direktori dari Local Disk(C;)/XAMPP/htdocs/aqas setelah itu jalankan dengan mengetik php artisan serve di vscode atau terminal.
+7.  untuk mengakses webnya buka browser dan masukkan url yang muncul dari output php artisan serve (Biasanya localhost:8000)
+8.  sekian terimakasih
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
