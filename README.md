@@ -9,8 +9,7 @@
 
 ## Cara Menginstall & Menjalankan Proyeknya:
 1.  Buka aplikasi XAMPP kemudian jalankan apache & mysql
-2.  Pastikan composer dari laravel telah terinstal, jika belum silahkan membuka <a href="https:"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-2.  Pastikan composer dari laravel telah terinstal, jika belum silahkan membuka <a href=""><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+2.  Pastikan composer dari laravel telah terinstal, jika belum silahkan membuka <a href="https://getcomposer.org/"> Klik disini </a>
 3.  pada direktori explorer dari local disk(C;)/XAMPP/htdocs buat folder baru bernama "aqas" dan isi dengan file dari github ini
 4.  Masuk ke database dari my sql dengan membuka browser dengan memasukkan url localhost/phpmyadmin
 5.  buat database baru bernama fasilitas_kampus dan import tabel dari database yang bernama fasilitas_kampus aseli
