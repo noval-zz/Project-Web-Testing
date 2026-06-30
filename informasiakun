@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 akun superadmin
 username: arkan
 password 1sampai9
@@ -14,20 +14,4 @@ password: mahasiswa
 akun admin
 username: akmal
 password: adminn
-=======
-akun superadmin
-username: arkan
-password 1sampai9
 
-akun teknisi
-username: zikry
-password:teknisi
-
-akun mahasiswa
-username: imam
-password: mahasiswa
-
-akun admin
-username: akmal
-password: adminn
->>>>>>> origin/main
